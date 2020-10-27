@@ -12,8 +12,6 @@ struct XXX {
 
 int main()
 {
-
-
     std::cout << sizeof(XXX);
 }
 
