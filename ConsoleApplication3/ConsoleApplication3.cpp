@@ -3,16 +3,10 @@
 
 #include <iostream>
 
-struct XXX {
-    int a;
-    int b;
-    char c;
-
-};
 
 int main()
 {
-    std::cout << sizeof(XXX);
+    
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
